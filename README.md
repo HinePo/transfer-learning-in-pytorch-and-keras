@@ -1,6 +1,5 @@
 # transfer-learning-in-pytorch-and-keras
-ResNet and VGG pytorch examples
-
+ResNet and VGG pytorch and keras examples
 
 This is just a snippet of code that often helps me in my transfer learning projects. It shows:
 
