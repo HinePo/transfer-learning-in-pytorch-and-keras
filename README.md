@@ -1,4 +1,4 @@
-# transfer-learning-in-pytorch
+# transfer-learning-in-pytorch-and-keras
 ResNet and VGG pytorch examples
 
 
